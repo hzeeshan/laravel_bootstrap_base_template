@@ -1,0 +1,12 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+
+[data-bs-theme="dark"] {
+    --bs-body-bg: #1a1a1a;
+  }   
+
+.cursor-pointer:hover {
+    cursor: pointer;
+    color: $primary;
+}
